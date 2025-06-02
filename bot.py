@@ -13,9 +13,7 @@ TOKEN = os.getenv("BOT_TOKEN")
 GUILD_ID = int(os.getenv("GUILD_ID"))
 
 REACTION_ROUTES = {
-    "📌": 123456789012345678,  # Replace with your channel IDs
-    "🧷": 234567890123456789,
-    "customemojiid": 345678901234567890  # Replace with actual custom emoji ID
+    "1379130333735424132": 1379119559642189855,  # Replace with your channel IDs
 }
 
 REPOST_FILE = "reposted.json"
